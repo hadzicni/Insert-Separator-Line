@@ -3,7 +3,7 @@
 A simple yet effective VS Code extension that inserts a horizontal comment-style separator line in your code. Ideal for visually structuring large files or separating logical sections.
 
 ![VS Code](https://img.shields.io/badge/vscode-1.100+-blue?logo=visualstudiocode)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-Apache--2.0-blue)
 
 ---
 
